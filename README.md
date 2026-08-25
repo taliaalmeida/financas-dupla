@@ -38,7 +38,7 @@
 A imagem abaixo mostra o dashboard publicado após entrar em uma sala de demonstração. A tela apresenta o código da sala, o participante, o mês selecionado, os cartões de receitas, despesas e saldo, a navegação principal e as áreas de gastos por categoria e últimos lançamentos.
 
 <p align="center">
-  <img src="C:\Users\DELL\Downloads\04_financas_em_dupla_dashboard.webp"/>
+  <img src="financas-em-dupla-dashboard.webp"/>
 </p>
 
 <p align="center"><sub>Captura real da aplicação publicada, utilizando uma sala de demonstração sem dados pessoais.</sub></p>
